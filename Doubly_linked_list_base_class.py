@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 ### Doubly linked list base class
 
 class  _DoublyLinkedListBase:
